@@ -46,5 +46,3 @@ The system consists of:
 5. Visualization and reporting layer  
 
 ---
-
-## 📂 Project Structure
