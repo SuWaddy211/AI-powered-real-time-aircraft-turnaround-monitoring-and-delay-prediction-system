@@ -54,26 +54,32 @@ The system consists of:
 ## ⚙️ Installation
 
 1. Clone the repository
+   ```bash
    git clone https://github.com/SuWaddy211/AI-powered-real-time-aircraft-turnaround-monitoring-and-delay-prediction-system.git
+   ```
 
 2. Navigate into the folder
+   ```bash
    cd AI-powered-real-time-aircraft-turnaround-monitoring-and-delay-prediction-system
+   ```
 
 3. Create a virtual environment
+   ```bash
    python -m venv venv
    source venv/bin/activate  # or venv\Scripts\activate on Windows
-
+   ```
 4. Install dependencies
+   ```bash
    pip install -r requirements.txt
-
+   ```
 ---
 
 ## ▶️ Running the Application
 
 To launch the Streamlit dashboard:
-
+```bash
 streamlit run app.py
-
+```
 ---
 
 ## 👥 Contributors
